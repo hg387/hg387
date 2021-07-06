@@ -1,21 +1,17 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Himanshu Gupta</h1>
 
-<h6 align="left">
+<h4 align="left">
 I have always been fond of technology and how it has evolved our lives. After first learning Python at high school, this passion for learning and problem-solving using technology is growing day by day. I am a Full-stack Developer, recently graduated from Drexel University with a Bachelor and Master of Science in Computer Science and concentrations in Artificial Intelligence and Software Engineering.
-</h6>
-<br/>
-<h6 align="left">
+</h4>
+<h4 align="left">
 During my first Co-Op at Penn Mutual, I collaborated in designing, building, and maintaining the new Annuity Platform for annual transactions of over $450 million. In my second Co-Op at Susquehanna International Group, I have developed, tested, and deployed scalable, highly available, and modular trader-facing applications to provide fast and continuous market data to all traders.
-</h6>
-<br/>
-<h6 align="left">
+</h4>
+<h4 align="left">
 With the experience of two Co-ops, I am a detail-oriented, responsible, and committed engineer with a get-it-done attitude and producing high-quality products at a fast velocity. I am currently working as a full-stack developer for a startup, Versa, to build a one-stop-shop platform for posting services and hiring freelancers with a modern user experience through the built-in messaging, scheduler, and digital checkout.
-</h6>
-<br/>
-<h6 align="left">
+</h4>
+<h4 align="left">
 Moreover, I am always looking to outgrow my skills, which led me to research and design smart wearables for real-time respiratory monitoring using Deep Learning.
-</h6>
-<br/>
+</h4>
 
 - 🚀 &nbsp;I’m currently learning **Go** and **DevOops**
 - :mailbox:	&nbsp; Ask me about anything @ hg387@drexel.edu, I am happy to help.
