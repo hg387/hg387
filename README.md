@@ -20,7 +20,7 @@ Moreover, I am always looking to outgrow my skills, which led me to research and
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/10lVXQyvT1I1Xy2ad-vdHAg5yBwXCd4w2/view?usp=sharing).
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">:fire: Favorite Tech :fire:</h2>
 
 > Tools, languages, and other things that I like to work with.
 
