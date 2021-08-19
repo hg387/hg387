@@ -202,3 +202,5 @@ Moreover, I am always looking to outgrow my skills, which led me to research and
 <a href="https://github.com/hg387">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg387&layout=compact&theme=github_dark"/>
 </a>
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
