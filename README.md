@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Himanshu Gupta</h1>
 
 <h4 align="left">
-I have always been fond of technology and how it has evolved our lives. After first learning Python at high school, this passion for learning and problem-solving using technology is growing day by day. I am a Full-stack Developer, recently graduated from Drexel University with a Bachelor and Master of Science in Computer Science and concentrations in Artificial Intelligence and Software Engineering.
+I have always been fond of technology and how it has evolved our lives. After first learning Python at high school, this passion for learning and problem-solving using technology is growing day by day. I am a Full-stack Developer, graduated from Drexel University with a Bachelor and Master of Science in Computer Science and concentrations in Artificial Intelligence and Software Engineering. About couple of years ago, I have co-founded a one-stop-shop platform, Versa, for posting services and hiring freelancers with a modern user experience through the built-in messaging, scheduler, and digital checkout using React, Jest, FastAPI, SQLAlchemy, PostgreSQL, Docker, and AWS.
 </h4>
 <h4 align="left">
 During my first Co-Op at Penn Mutual, I collaborated in designing, building, and maintaining the new Annuity Platform for annual transactions of over $450 million. In my second Co-Op at Susquehanna International Group, I have developed, tested, and deployed scalable, highly available, and modular trader-facing applications to provide fast and continuous market data to all traders.
