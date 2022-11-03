@@ -197,9 +197,6 @@ Moreover, I am always looking to outgrow my skills, which led me to research and
 
 <h2 align="center">:zap: Stats :zap:</h2>
 <a href="https://github.com/hg387">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hg387&show_icons=true&theme=github_dark&line_height=27" alt="Himanshu's github stats"/>
-</a>
-<a href="https://github.com/hg387">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg387&layout=compact&theme=github_dark"/>
 </a>
 <br/>
